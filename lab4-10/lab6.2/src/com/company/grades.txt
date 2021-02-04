@@ -1,0 +1,6 @@
+AAA BBB A
+
+Max score = 60
+
+Min score = 60
+Avg score = 60
